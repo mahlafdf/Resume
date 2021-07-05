@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    background-color: whitesmoke  ;
+}
+
+.flexbox-container{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 900px;
+    border: 6px solid rosybrown;
+    padding: 50px;
+    margin: auto;
+    
+}
+
+
+.personal-info,.more-detail,.about-me{
+    font-size: 20px;
+    border-bottom: 3px solid black;
+    max-width: 100%;
+    
+}
+.personal-info {
+    display: flex;
+    flex-direction: row;
+    line-height: 50px;
+    padding-bottom: 10px;
+     }
+img{
+    border-radius: 20%;
+}
