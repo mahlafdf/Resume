@@ -1,4 +1,4 @@
-<a href="https://mahlafdf.github.io/digital-resume> See The Project </a>
+<a href="https://mahlafdf.github.io/digital-resume"> See The Project </a>
 
 <h1>What I practiced on this project</h1>
 <ul>
